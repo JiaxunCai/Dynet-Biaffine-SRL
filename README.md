@@ -1,5 +1,5 @@
 # Dynet-Biaffine-SRL
-This repository implements the semantic role labeler described in the paper [A Full End-to-End Semantic Role Labeler, Syntax-agnostic Over Syntax-aware?]()
+This repository implements the semantic role labeler described in the paper A Full End-to-End Semantic Role Labeler, Syntax-agnostic Over Syntax-aware?
 
 The codes are developed based on the [Dynet implementation of biaffine dependency parser](https://github.com/jcyk/Dynet-Biaffine-dependency-parser).
 
